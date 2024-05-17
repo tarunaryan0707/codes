@@ -1,0 +1,5 @@
+#!/bin/bash
+mkdir -p /india/delhi
+cd /india/delhi
+touch jaipur
+
